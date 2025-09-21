@@ -1,11 +1,41 @@
-<h1 align="center">Hi 👋, I'm Beylessen</h1>
-<h3 align="center">An ICT Engineering Student @ENIT passionate about cybersecurity</h3>
+# 🌟 Welcome to My GitHub!  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hi, I’m **Your Name** 👋  
+💻 ICT Engineering Student | 🔐 Cybersecurity Enthusiast | 🚀 Software Builder  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beylessen1&" alt="beylessen1" /></p>
+## 🚀 About Me  
+- 🎓 Passionate about **cybersecurity & AI**  
+- 🛠️ Building projects in **Java, Python, SQL, and web security tools**  
+- 📖 Currently learning **ethical hacking & advanced networking**  
+- 🌍 Exploring how **AI shapes the future of cybersecurity**  
+
+---
+
+## 🧰 Tech Stack  
+**Languages:**  
+`Java` `Python` `C` `SQL` `JavaScript`  
+
+**Tools & Frameworks:**  
+`Kali Linux` `Nmap` `Burp Suite` `ZAP` `Docker`  
+
+**Special Interests:**  
+🔴 Red Team Security | 🔵 Blue Team Defense | 🤖 AI in Security  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- ✉️ Reach me at: **your.email@example.com**  
+
+---
+
+✨ *“Code. Secure. Repeat.”* ✨  
