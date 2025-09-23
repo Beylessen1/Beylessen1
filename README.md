@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub!  
 
 Hi, I'm Beylessen  👋  
-💻 ICT Engineering Student | 🔐 Cybersecurity Enthusiast | 🚀 Software Builder  
+💻 Software Engineering Student | 🔐 Cybersecurity Enthusiast  
 
 ---
 
