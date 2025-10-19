@@ -6,11 +6,9 @@ Hi, I'm Beylessen  👋
 ---
 
 ## 🚀 About Me  
-Hi I'm Beylessen, a Software engineering student with a growing passion for cybersecurity. 
+Hi, I'm Beylessen, a Software Engineering student with a strong and growing passion for cybersecurity.
 
-Hooked on technology from a young age, I love to learn and hope to acquire many skills in various tech-related disciplines. 
-Passionate about Cybersecurity & AI, currently learning about penetration testing and Web development. 
-Exploring how AI shapes the future of cybersecurity.  
+Fascinated by technology from a young age, I enjoy learning and exploring new skills across different tech disciplines. Currently, I’m diving deeper into cybersecurity and AI, focusing on penetration testing and web development, while exploring how AI is shaping the future of digital security.
 
 <h2 align="left">🧰 Languages and Tools</h2>
 
