@@ -36,7 +36,7 @@ Exploring how AI shapes the future of cybersecurity.
 
 ###
 
-<h2 align="left">Connection</h2>
+<h2 align="left"> 🌐 Connection</h2>
 
 ###
 
