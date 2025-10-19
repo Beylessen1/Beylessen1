@@ -6,34 +6,77 @@ Hi, I'm Beylessen  👋
 ---
 
 ## 🚀 About Me  
-- 🎓 Passionate about **cybersecurity & AI**  
-- 🛠️ Building projects in **Java, Python, SQL, and web security tools**  
-- 📖 Currently learning **ethical hacking & advanced networking**  
-- 🌍 Exploring how **AI shapes the future of cybersecurity**  
+Hi I'm Beylessen, a Software engineering student with a growing passion for cybersecurity. 
 
----
+Hooked on technology from a young age, I love to learn and hope to acquire many skills in various tech-related disciplines. 
+Passionate about Cybersecurity & AI, currently learning about penetration testing and Web development. 
+Exploring how AI shapes the future of cybersecurity.  
 
-## 🧰 Tech Stack  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<h2 align="left">Languages and Tools</h2>
 
-**Special Interests:**  
-🔴 Red Team Security | 🔵 Blue Team Defense | 🤖 AI in Security  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  
+</div>
+
+###
+
+<h2 align="left">Connection</h2>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/947505557844135977" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="beylessenjendoubi01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/beylessen-jendoubi-93648031a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://app.hackthebox.com/users/915327" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/915327" alt="Zwique's Hack The Box Profile" />
+  </a>
+</div>
+
+###
+
+<!--<div align="center">
+  <a href="https://zwique.gitbook.io/">
+    <img src="https://img.shields.io/website?label=zwique.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fzwique.gitbook.io" alt="GitBook Website" />
+  </a>
+</div> -->
+
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
 
 ## 📈 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Beylessen1&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Beylessen1&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beylessen1&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## 🌐 Connect With Me  
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beylessen-jendoubi-93648031a/) 
-- ✉️ Reach me at: **beylessenjendoubi01@gmail.com**  
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Beylessen1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-✨ *“Code. Secure. Repeat.”* ✨  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
