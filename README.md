@@ -51,7 +51,7 @@ Exploring how AI shapes the future of cybersecurity.
   </a>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://app.hackthebox.com/users/915327" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/915327" alt="Zwique's Hack The Box Profile" />
   </a>
@@ -59,7 +59,7 @@ Exploring how AI shapes the future of cybersecurity.
 
 ###
 
-<!--<div align="center">
+<div align="center">
   <a href="https://zwique.gitbook.io/">
     <img src="https://img.shields.io/website?label=zwique.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fzwique.gitbook.io" alt="GitBook Website" />
   </a>
