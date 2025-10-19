@@ -12,7 +12,7 @@ Hooked on technology from a young age, I love to learn and hope to acquire many 
 Passionate about Cybersecurity & AI, currently learning about penetration testing and Web development. 
 Exploring how AI shapes the future of cybersecurity.  
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🧰 Languages and Tools</h2>
 
 ###
 
@@ -30,7 +30,8 @@ Exploring how AI shapes the future of cybersecurity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
 </div>
 
 ###
@@ -66,17 +67,9 @@ Exploring how AI shapes the future of cybersecurity.
 </div> -->
 
 
-###
-
-<h2 align="left">Stats</h2>
 
 ###
 
 ## 📈 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Beylessen1&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
