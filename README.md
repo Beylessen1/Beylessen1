@@ -41,7 +41,7 @@ Exploring how AI shapes the future of cybersecurity.
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/947505557844135977" target="_blank">
+  <h3> bay_1111 on Discord </h3>
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="beylessenjendoubi01@gmail.com" target="_blank">
