@@ -65,9 +65,3 @@ Fascinated by technology from a young age, I enjoy learning and exploring new sk
 </div> -->
 
 
-
-###
-
-## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Beylessen1&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
