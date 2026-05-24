@@ -1,67 +1,144 @@
-# 🌟 Welcome to My GitHub!  
+<div align="center">
 
-Hi, I'm Beylessen  👋  
-💻 Software Engineering Student | 🔐 Cybersecurity Enthusiast  
+# Hey, I'm Beylessen 🦁
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+Red+Teaming+%26+Adversarial+ML;CTF+Player+%40+Bay+%7C+Assada;Cybersecurity+%26+Ethical+Hacking)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beylessen-jendoubi-93648031a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beylessen1)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://beylessen1.github.io/Blog/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beylessenjendoubi01@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
 
 ---
 
-## 🚀 About Me  
-Hi, I'm Beylessen, a Software Engineering student with a strong and growing passion for cybersecurity.
+## About Me
 
-Fascinated by technology from a young age, I enjoy learning and exploring new skills across different tech disciplines. Currently, I’m diving deeper into cybersecurity and AI, focusing on penetration testing and web development, while exploring how AI is shaping the future of digital security.
+Software Engineering student @ **ENIT** — obsessed with **AI Red Teaming**, adversarial machine learning, and breaking things responsibly.
 
-<h2 align="left">🧰 Languages and Tools</h2>
+- 🔴 **AI Red Teamer** – From adversarial attacks on ML models to LLM prompt injection
+- 🏴 **CTF Player** – Competing as **Bay** / **Assada** on national and international stages
+- 🛡️ **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's cybersecurity club
+- 📡 **Campus Ambassador** @ Hackviser
+- ✍️ I document what I learn on my [blog](https://beylessen1.github.io/Blog/)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-</div>
+## 🔥 Featured Projects
 
-###
+<table>
+<tr>
+<td width="50%">
 
-<h2 align="left"> 🌐 Connection</h2>
+### 🎭 [Detective 2089](https://github.com/Beylessen1/Detective_2089))
+*Social Engineering Game — Post-AI Collapse World*
 
-###
+Flutter mobile game (Android & iOS) with **live AI-powered NPCs** (Llama 3.1 8B). Each NPC hides secrets exploitable through **prompt injection**. Win by manipulating the AI into revealing what it shouldn't.
+
+**Tech:** Flutter · Firebase · HuggingFace API · Riverpod 2.x
+
+</td>
+<td width="50%">
+
+### 🧠 [AI Red Teaming — Adversarial ML](https://github.com/Beylessen1)
+*From Adversarial Attacks to Defensive Design*
+
+End-to-end red team pipeline on a malware classifier: **DeepFool vs PGD**, black-box transferable attacks via surrogate model, **AdvGAN**, threat modeling with **MITRE ATLAS**, and adversarial training hardening.
+
+**Tech:** Python · PyTorch · Scikit-learn · MITRE ATLAS
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [AI in Cybersecurity — Research](https://github.com/Beylessen1)
+*Landscape of attacks & AI-powered defenses*
+
+Comparative study of conventional vs AI-based defense mechanisms. Explored ML, DL, and LLM applications in security. Case studies on Kaggle: threat detection & suspicious web interaction analysis.
+
+**Tech:** Python · ML/DL · Kaggle Datasets
+
+</td>
+<td width="50%">
+
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### AI / ML & Security
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+**Adversarial ML:** DeepFool · PGD · AdvGAN · Adversarial Training · MITRE ATLAS  
+**Offensive Security:** Penetration Testing · Web Security · LLM Prompt Injection · Reverse Engineering
+
+### Web & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+---
+
+## 🏆 CTF Competitions
+
+| Competition | Team | Handle | Result |
+|---|---|---|---|
+| HackTheBox University CTF 2025 | Securinets ENIT | `bayla1` | 🥈 **77th / 1014** worldwide |
+| Ctrl Cure CTF | Lmandhouma | `Assada` | 🥉 **3rd place** |
+| Moroccan Uni CTF — Mundiapolis 2026 | — | Challenge Author | ✍️ AI/ML category |
+
+---
+
+## 📜 Certifications
+
+- 🔴 **Hackviser** — [Certified Associate Penetration Tester (CAPT)](https://hackviser.com/verify?id=HV-CAPT-O7YMP2Q1)
+- 🌐 **Hackviser** — [Certified Web Security Expert (CWSE)](https://hackviser.com/verify?id=HV-CWSE-6UQ66B7X)
+- 🤖 **IriusRisk** — [Threat Modeling AI/ML Systems (IR-TMAIS)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176019847)
+- 🤖 **IriusRisk** — [Threat Modeling Agentic AI (IR-TMA²I)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176123391)
+- 💀 **HackTheBox** — AI Red Teamer Path
+- ⚔️ **CWL** — Certified Red Team Analyst (CRTA) — *in progress*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <h3> bay_1111 on Discord </h3>
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="beylessenjendoubi01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/beylessen-jendoubi-93648031a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beylessen1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beylessen1&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Beylessen1&theme=tokyonight&hide_border=true)
+
 </div>
 
-<!--<div align="center">
-  <a href="https://app.hackthebox.com/users/915327" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/915327" alt="Zwique's Hack The Box Profile" />
-  </a>
-</div>
-
-###
+---
 
 <div align="center">
-  <a href="https://zwique.gitbook.io/">
-    <img src="https://img.shields.io/website?label=zwique.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fzwique.gitbook.io" alt="GitBook Website" />
-  </a>
-</div> -->
 
+*"Stay curious. Stay humble. Keep hacking."* ✨
 
+![Profile Views](https://komarev.com/ghpvc/?username=Beylessen1&color=blueviolet&style=flat-square)
+
+</div>
