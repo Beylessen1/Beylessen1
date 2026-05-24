@@ -16,7 +16,7 @@
 
 ## About Me
 
-Software Engineering student @ **ENIT** — obsessed with **AI Red Teaming**, adversarial machine learning, and breaking things responsibly.
+Software Engineering student @ **ENIT**, diving in **AI Red Teaming**, adversarial machine learning, and breaking things responsibly.
 
 - 🔴 **AI Red Teamer** – From adversarial attacks on ML models to LLM prompt injection
 - 🏴 **CTF Player** – Competing as **Bay** / **Assada** on national and international stages
@@ -80,23 +80,9 @@ Software Engineering student @ **ENIT** — obsessed with **AI Red Teaming**, ad
 - 🤖 **IriusRisk** — [Threat Modeling AI/ML Systems (IR-TMAIS)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176019847)
 - 🤖 **IriusRisk** — [Threat Modeling Agentic AI (IR-TMA²I)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176123391)
 - 💀 **HackTheBox** — AI Red Teamer Path
-- ⚔️ **CWL** — Certified Red Team Analyst (CRTA) — *in progress*
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beylessen1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beylessen1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Beylessen1&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
