@@ -88,6 +88,4 @@ Software Engineering student @ **ENIT**, diving in **AI Red Teaming**, adversari
 
 *"Stay curious. Stay humble. Keep hacking."* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=Beylessen1&color=blueviolet&style=flat-square)
-
 </div>
