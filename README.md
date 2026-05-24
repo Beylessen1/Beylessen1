@@ -26,35 +26,6 @@ Software Engineering student @ **ENIT** — obsessed with **AI Red Teaming**, ad
 
 ---
 
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎭 [Detective 2089](https://github.com/Beylessen1/Detective_2089))
-*Social Engineering Game — Post-AI Collapse World*
-
-Flutter mobile game (Android & iOS) with **live AI-powered NPCs** (Llama 3.1 8B). Each NPC hides secrets exploitable through **prompt injection**. Win by manipulating the AI into revealing what it shouldn't.
-
-**Tech:** Flutter · Firebase · HuggingFace API · Riverpod 2.x
-
-</td>
-<td width="50%">
-
-### 🧠 [AI Red Teaming — Adversarial ML](https://github.com/Beylessen1)
-*From Adversarial Attacks to Defensive Design*
-
-End-to-end red team pipeline on a malware classifier: **DeepFool vs PGD**, black-box transferable attacks via surrogate model, **AdvGAN**, threat modeling with **MITRE ATLAS**, and adversarial training hardening.
-
-**Tech:** Python · PyTorch · Scikit-learn · MITRE ATLAS
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-
 
 
 ## 🛠️ Tech Stack
