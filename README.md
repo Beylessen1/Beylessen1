@@ -54,15 +54,7 @@ End-to-end red team pipeline on a malware classifier: **DeepFool vs PGD**, black
 <tr>
 <td width="50%">
 
-### 🔍 [AI in Cybersecurity — Research](https://github.com/Beylessen1)
-*Landscape of attacks & AI-powered defenses*
 
-Comparative study of conventional vs AI-based defense mechanisms. Explored ML, DL, and LLM applications in security. Case studies on Kaggle: threat detection & suspicious web interaction analysis.
-
-**Tech:** Python · ML/DL · Kaggle Datasets
-
-</td>
-<td width="50%">
 
 
 ## 🛠️ Tech Stack
