@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;AI+Red+Teaming+%26+Adversarial+ML;CTF+Player+%40+Bay+%7C+Assada;Cybersecurity+%26+Ethical+Hacking)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beylessen-jendoubi-93648031a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Beylessen1)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://beylessen1.github.io/Blog/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beylessenjendoubi01@gmail.com)
 
