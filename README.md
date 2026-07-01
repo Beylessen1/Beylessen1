@@ -77,7 +77,7 @@ Software Engineering student @ **ENIT**, diving in **AI Red Teaming**, adversari
 - 🌐 **Hackviser** — [Certified Web Security Expert (CWSE)](https://hackviser.com/verify?id=HV-CWSE-6UQ66B7X)
 - 🤖 **IriusRisk** — [Threat Modeling AI/ML Systems (IR-TMAIS)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176019847)
 - 🤖 **IriusRisk** — [Threat Modeling Agentic AI (IR-TMA²I)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176123391)
-- 💀 **HackTheBox** — AI Red Teamer Path
+- 💀 **HackTheBox** — [AI Red Teamer Path](https://academy.hackthebox.com/achievement/1575436/path/418)
 
 ---
 
