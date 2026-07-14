@@ -19,7 +19,7 @@ Software Engineering student @ **ENIT**, diving in **AI Red Teaming**, adversari
 - 🔴 **AI Red Teamer** – From adversarial attacks on ML models to LLM prompt injection
 - 🏴 **CTF Player** – Competing as **Bay** / **Assada** on national and international stages
 - 🛡️ **Co-Founder** of [Securinets ENIT](https://github.com/securinets-enit) – ENIT's cybersecurity club
-- 📡 **Campus Ambassador** @ Hackviser
+- 📡 **Campus Ambassador** @ [Hackviser](https://hackviser.com/)
 - ✍️ I document what I learn on my [blog](https://beylessen1.github.io/Blog/)
 
 ---
