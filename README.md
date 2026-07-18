@@ -45,6 +45,7 @@ Software Engineering student @ **ENIT**, diving in **AI Red Teaming**, adversari
 - 🤖 **IriusRisk** — [Threat Modeling AI/ML Systems (IR-TMAIS)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176019847)
 - 🤖 **IriusRisk** — [Threat Modeling Agentic AI (IR-TMA²I)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/176123391)
 - 💀 **HackTheBox** — [AI Red Teamer Path](https://academy.hackthebox.com/achievement/1575436/path/418)
+- 🛡️ **Securiti AI** — [AI Security and Governance Certification](https://education.securiti.ai/verification/14AE4F1A9-14AE4F018-13F55CE31/)
 
 ---
 
