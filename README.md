@@ -34,8 +34,8 @@ Software Engineering student @ **ENIT**, diving in **AI Red Teaming**, adversari
 |---|---|---|---|
 | HackTheBox University CTF 2025 | Securinets ENIT | `bayla1` | 🥈 **77th / 1014** worldwide |
 | Ctrl Cure CTF | Lmandhouma | `Assada` | 🥉 **3rd place** |
-| Moroccan Uni CTF — Mundiapolis 2026 | — | Challenge Author | ✍️ AI/ML category |
-| Securinets ENIT WebCTF | — | Challenge Co-Author | 🌐 Web category |
+| Moroccan Uni CTF — Mundiapolis 2026 | Challenge Author | `Assada` | ✍️ AI/ML category |
+| Securinets ENIT WebCTF | Challenge Co-Author | `Assada` | 🌐 Web category |
 
 ---
 
